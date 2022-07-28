@@ -288,4 +288,7 @@
         <item>com.facebook.orca</item>
         <item>com.skype.raider</item>
     </string-array>
+
+    <!-- Exempt ImsService from privacy (location) indicators -->
+    <string name="config_systemTelephonyPackage" translatable="false">com.shannon.imsservice</string>
 </resources>
