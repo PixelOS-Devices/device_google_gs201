@@ -48,6 +48,8 @@ type sysfs_chip_id, sysfs_type, fs_type;
 type sysfs_touch, sysfs_type, fs_type;
 type sysfs_exynos_pcie_stats, sysfs_type, fs_type;
 type sysfs_bcmdhd, sysfs_type, fs_type;
+type sysfs_wlc, sysfs_type, fs_type;
+type sysfs_chargelevel, sysfs_type, fs_type;
 type sysfs_mfc, sysfs_type, fs_type;
 type sysfs_cpu, sysfs_type, fs_type;
 type sysfs_odpm, sysfs_type, fs_type;
